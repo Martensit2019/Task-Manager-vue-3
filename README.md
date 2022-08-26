@@ -1,5 +1,5 @@
 # task-manager
-Demo: (https://martensit2019.github.io/Task-Manager-vue-3/).
+Demo: https://martensit2019.github.io/Task-Manager-vue-3/
 
 ## Project setup
 ```
